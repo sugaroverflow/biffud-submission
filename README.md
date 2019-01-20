@@ -1,9 +1,5 @@
-Submission for joining the [Bad Idea Factory](https://github.com/BadIdeaFactory)
-
-## Airtote
-
-Slides for the presentation!
+Slides for my _Bad Idea_ presentation to join the [Bad Idea Factory](https://github.com/BadIdeaFactory)
 
 View the presentation online here: 
 
-Made with @tmcw's big presentation software. 
+Made with [tmcw/big](https://github.com/tmcw/big). 
